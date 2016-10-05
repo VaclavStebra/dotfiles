@@ -1,0 +1,360 @@
+Sep 14 14:08 : update: added POKER/Weekly Poker Hand with Jonathan Little/wph108audio.mp3
+Sep 14 14:08 : update: added POKER/Weekly Poker Hand with Jonathan Little/wph107audio.mp3
+Sep 14 14:08 : update: added POKER/Weekly Poker Hand with Jonathan Little/wph104audio.mp3
+Sep 14 14:08 : update: added POKER/Weekly Poker Hand with Jonathan Little/wph106audio.mp3
+Sep 14 14:08 : update: added POKER/Weekly Poker Hand with Jonathan Little/wph103audio.mp3
+Sep 14 14:08 : update: added POKER/Weekly Poker Hand with Jonathan Little/wph102audio.mp3
+Sep 14 14:08 : update: added POKER/Weekly Poker Hand with Jonathan Little/wph111audio.mp3
+Sep 14 14:08 : update: added POKER/Weekly Poker Hand with Jonathan Little/wph105audio.mp3
+Sep 14 14:08 : update: added POKER/Weekly Poker Hand with Jonathan Little/wph109audio.mp3
+Sep 14 14:08 : update: added POKER/Weekly Poker Hand with Jonathan Little/wph110audio.mp3
+Sep 14 14:08 : update: added LINUX/The Linux Link/tllts_673-09-07-16.mp3
+Sep 14 14:12 : client: [0] opened from 127.0.0.1:55108
+Sep 14 14:13 : client: [0] closed
+Sep 14 14:13 : client: [1] opened from 127.0.0.1:55112
+Sep 14 14:14 : player: played "POKER/Weekly Poker Hand with Jonathan Little/wph111audio.mp3"
+Sep 14 14:14 : player: played "POKER/Weekly Poker Hand with Jonathan Little/wph111audio.mp3"
+Sep 14 14:15 : player: played "POKER/Weekly Poker Hand with Jonathan Little/wph111audio.mp3"
+Sep 14 14:15 : player: played "POKER/Weekly Poker Hand with Jonathan Little/wph111audio.mp3"
+Sep 14 14:16 : player: played "POKER/Weekly Poker Hand with Jonathan Little/wph111audio.mp3"
+Sep 14 14:20 : player: played "POKER/Weekly Poker Hand with Jonathan Little/wph103audio.mp3"
+Sep 14 16:49 : client: [1] closed
+Sep 14 17:26 : client: [2] opened from 127.0.0.1:58102
+Sep 14 17:26 : client: [2] closed
+Sep 14 18:36 : player: played "POKER/Weekly Poker Hand with Jonathan Little/wph102audio.mp3"
+Sep 15 11:37 : client: [0] opened from 127.0.0.1:57002
+Sep 15 11:37 : player: played "POKER/Weekly Poker Hand with Jonathan Little/wph102audio.mp3"
+Sep 15 11:37 : errno: Failed to open "/home/vstebra/POD/POKER/Weekly Poker Hand with Jonathan Little/wph102audio.mp3": No such file or directory
+Sep 15 11:37 : errno: Failed to open "/home/vstebra/POD/POKER/Weekly Poker Hand with Jonathan Little/wph102audio.mp3": No such file or directory
+Sep 15 11:37 : errno: Failed to open "/home/vstebra/POD/POKER/Weekly Poker Hand with Jonathan Little/wph103audio.mp3": No such file or directory
+Sep 15 11:37 : errno: Failed to open "/home/vstebra/POD/POKER/Weekly Poker Hand with Jonathan Little/wph103audio.mp3": No such file or directory
+Sep 15 11:37 : player: played "POKER/Weekly Poker Hand with Jonathan Little/wph102audio.mp3"
+Sep 15 11:37 : errno: Failed to open "/home/vstebra/POD/POKER/Weekly Poker Hand with Jonathan Little/wph103audio.mp3": No such file or directory
+Sep 15 11:37 : errno: Failed to open "/home/vstebra/POD/POKER/Weekly Poker Hand with Jonathan Little/wph103audio.mp3": No such file or directory
+Sep 15 11:37 : player: played "POKER/Weekly Poker Hand with Jonathan Little/wph103audio.mp3"
+Sep 15 11:37 : errno: Failed to open "/home/vstebra/POD/POKER/Weekly Poker Hand with Jonathan Little/wph104audio.mp3": No such file or directory
+Sep 15 11:37 : errno: Failed to open "/home/vstebra/POD/POKER/Weekly Poker Hand with Jonathan Little/wph104audio.mp3": No such file or directory
+Sep 15 11:37 : player: played "POKER/Weekly Poker Hand with Jonathan Little/wph104audio.mp3"
+Sep 15 11:37 : errno: Failed to open "/home/vstebra/POD/POKER/Weekly Poker Hand with Jonathan Little/wph105audio.mp3": No such file or directory
+Sep 15 11:37 : errno: Failed to open "/home/vstebra/POD/POKER/Weekly Poker Hand with Jonathan Little/wph105audio.mp3": No such file or directory
+Sep 15 11:37 : player: played "POKER/Weekly Poker Hand with Jonathan Little/wph105audio.mp3"
+Sep 15 11:37 : errno: Failed to open "/home/vstebra/POD/POKER/Weekly Poker Hand with Jonathan Little/wph106audio.mp3": No such file or directory
+Sep 15 11:37 : errno: Failed to open "/home/vstebra/POD/POKER/Weekly Poker Hand with Jonathan Little/wph106audio.mp3": No such file or directory
+Sep 15 11:37 : player: played "POKER/Weekly Poker Hand with Jonathan Little/wph106audio.mp3"
+Sep 15 11:37 : errno: Failed to open "/home/vstebra/POD/POKER/Weekly Poker Hand with Jonathan Little/wph107audio.mp3": No such file or directory
+Sep 15 11:37 : errno: Failed to open "/home/vstebra/POD/POKER/Weekly Poker Hand with Jonathan Little/wph107audio.mp3": No such file or directory
+Sep 15 11:37 : player: played "POKER/Weekly Poker Hand with Jonathan Little/wph107audio.mp3"
+Sep 15 11:37 : errno: Failed to open "/home/vstebra/POD/POKER/Weekly Poker Hand with Jonathan Little/wph108audio.mp3": No such file or directory
+Sep 15 11:37 : errno: Failed to open "/home/vstebra/POD/POKER/Weekly Poker Hand with Jonathan Little/wph108audio.mp3": No such file or directory
+Sep 15 11:37 : player: played "POKER/Weekly Poker Hand with Jonathan Little/wph108audio.mp3"
+Sep 15 11:37 : errno: Failed to open "/home/vstebra/POD/POKER/Weekly Poker Hand with Jonathan Little/wph109audio.mp3": No such file or directory
+Sep 15 11:37 : errno: Failed to open "/home/vstebra/POD/POKER/Weekly Poker Hand with Jonathan Little/wph109audio.mp3": No such file or directory
+Sep 15 11:37 : player: played "POKER/Weekly Poker Hand with Jonathan Little/wph109audio.mp3"
+Sep 15 11:37 : errno: Failed to open "/home/vstebra/POD/POKER/Weekly Poker Hand with Jonathan Little/wph110audio.mp3": No such file or directory
+Sep 15 11:37 : errno: Failed to open "/home/vstebra/POD/POKER/Weekly Poker Hand with Jonathan Little/wph110audio.mp3": No such file or directory
+Sep 15 11:37 : player: played "POKER/Weekly Poker Hand with Jonathan Little/wph110audio.mp3"
+Sep 15 11:37 : errno: Failed to open "/home/vstebra/POD/POKER/Weekly Poker Hand with Jonathan Little/wph111audio.mp3": No such file or directory
+Sep 15 11:37 : errno: Failed to open "/home/vstebra/POD/POKER/Weekly Poker Hand with Jonathan Little/wph111audio.mp3": No such file or directory
+Sep 15 11:37 : player: played "POKER/Weekly Poker Hand with Jonathan Little/wph111audio.mp3"
+Sep 15 11:37 : client: [0] closed
+Sep 15 11:37 : client: [1] opened from 127.0.0.1:57008
+Sep 15 11:37 : client: [1] closed
+Sep 15 11:37 : client: [0] opened from 127.0.0.1:57022
+Sep 15 11:38 : client: [0] closed
+Sep 15 11:38 : update: added Podcasts/Weekly Poker Hand with Jonathan Little/wph111audio.mp3
+Sep 15 11:38 : update: added Podcasts/Weekly Poker Hand with Jonathan Little/wph110audio.mp3
+Sep 15 11:39 : client: [0] opened from 127.0.0.1:57032
+Sep 15 11:44 : client: [1] opened from 127.0.0.1:57264
+Sep 15 11:45 : client: [1] closed
+Sep 15 11:45 : client: [2] opened from 127.0.0.1:57272
+Sep 15 11:45 : client: [2] closed
+Sep 15 11:45 : client: [0] closed
+Sep 15 11:45 : client: [3] opened from 127.0.0.1:57276
+Sep 15 11:45 : player: played "Podcasts/Weekly Poker Hand with Jonathan Little/wph110audio.mp3"
+Sep 15 11:45 : player: played "Podcasts/Weekly Poker Hand with Jonathan Little/wph111audio.mp3"
+Sep 15 11:48 : client: [4] opened from 127.0.0.1:57386
+Sep 15 11:48 : update: added Podcasts/Weekly Poker Hand with Jonathan Little/wph108audio.mp3
+Sep 15 11:48 : update: added Podcasts/Weekly Poker Hand with Jonathan Little/wph107audio.mp3
+Sep 15 11:48 : update: added Podcasts/Weekly Poker Hand with Jonathan Little/wph104audio.mp3
+Sep 15 11:48 : client: [4] closed
+Sep 15 11:48 : update: added Podcasts/Weekly Poker Hand with Jonathan Little/wph106audio.mp3
+Sep 15 11:48 : update: added Podcasts/Weekly Poker Hand with Jonathan Little/wph103audio.mp3
+Sep 15 11:48 : update: added Podcasts/Weekly Poker Hand with Jonathan Little/wph102audio.mp3
+Sep 15 11:48 : update: updating Podcasts/Weekly Poker Hand with Jonathan Little/wph111audio.mp3
+Sep 15 11:48 : update: added Podcasts/Weekly Poker Hand with Jonathan Little/wph105audio.mp3
+Sep 15 11:48 : update: added Podcasts/Weekly Poker Hand with Jonathan Little/wph109audio.mp3
+Sep 15 11:48 : update: updating Podcasts/Weekly Poker Hand with Jonathan Little/wph110audio.mp3
+Sep 15 11:50 : client: [3] closed
+Sep 15 11:50 : client: [5] opened from 127.0.0.1:57466
+Sep 15 11:50 : player: played "Podcasts/Weekly Poker Hand with Jonathan Little/wph111audio.mp3"
+Sep 15 12:08 : client: [6] opened from 127.0.0.1:58700
+Sep 15 12:08 : update: added Podcasts/The Mental Game Podcast/jaredtendler-20160819151713-2494.mp3
+Sep 15 12:08 : update: added Podcasts/Thinking Poker » Thinking Poker Podcast Feed/Ep184.mp3
+Sep 15 12:08 : update: added Podcasts/The Tournament Poker Edge Podcast/328310-november-25th-2015-wsop-main-event-and-wcoop-super-progressive-ko-mtt-strategy-with-dannyn13.mp3
+Sep 15 12:08 : client: [6] closed
+Sep 15 12:09 : player: played "Podcasts/Weekly Poker Hand with Jonathan Little/wph102audio.mp3"
+Sep 15 12:09 : player: played "Podcasts/The Mental Game Podcast/jaredtendler-20160819151713-2494.mp3"
+Sep 15 12:09 : player: played "Podcasts/The Tournament Poker Edge Podcast/328310-november-25th-2015-wsop-main-event-and-wcoop-super-progressive-ko-mtt-strategy-with-dannyn13.mp3"
+Sep 15 12:09 : player: played "Podcasts/Thinking Poker » Thinking Poker Podcast Feed/Ep184.mp3"
+Sep 15 12:10 : player: played "Podcasts/The Mental Game Podcast/jaredtendler-20160819151713-2494.mp3"
+Sep 15 12:10 : player: played "Podcasts/The Tournament Poker Edge Podcast/328310-november-25th-2015-wsop-main-event-and-wcoop-super-progressive-ko-mtt-strategy-with-dannyn13.mp3"
+Sep 15 12:10 : player: played "Podcasts/Thinking Poker » Thinking Poker Podcast Feed/Ep184.mp3"
+Sep 15 12:10 : player: played "Podcasts/The Tournament Poker Edge Podcast/328310-november-25th-2015-wsop-main-event-and-wcoop-super-progressive-ko-mtt-strategy-with-dannyn13.mp3"
+Sep 15 12:16 : client: [7] opened from 127.0.0.1:58762
+Sep 15 12:16 : client: [7] closed
+Sep 15 12:16 : client: [8] opened from 127.0.0.1:58766
+Sep 15 12:16 : client: [8] closed
+Sep 15 12:19 : client: [9] opened from 127.0.0.1:58800
+Sep 15 12:19 : client: [9] closed
+Sep 15 12:19 : client: [10] opened from 127.0.0.1:58804
+Sep 15 12:19 : client: [10] closed
+Sep 15 12:19 : client: [11] opened from 127.0.0.1:58808
+Sep 15 12:19 : client: [11] closed
+Sep 15 12:19 : client: [12] opened from 127.0.0.1:58812
+Sep 15 12:19 : client: [12] closed
+Sep 15 12:19 : client: [13] opened from 127.0.0.1:58816
+Sep 15 12:19 : client: [13] closed
+Sep 15 12:19 : client: [14] opened from 127.0.0.1:58820
+Sep 15 12:19 : client: [14] closed
+Sep 15 12:20 : client: [5] closed
+Sep 15 12:20 : client: [15] opened from 127.0.0.1:58840
+Sep 15 12:20 : client: [15] closed
+Sep 15 12:20 : client: [16] opened from 127.0.0.1:58844
+Sep 15 12:20 : client: [16] closed
+Sep 15 12:25 : client: [17] opened from 127.0.0.1:58884
+Sep 15 12:25 : client: [17] closed
+Sep 15 12:27 : client: [18] opened from 127.0.0.1:58904
+Sep 15 12:27 : client: [18] closed
+Sep 15 12:52 : client: [19] opened from 127.0.0.1:59218
+Sep 15 12:52 : client: [19] closed
+Sep 15 13:03 : client: [20] opened from 127.0.0.1:59998
+Sep 15 13:03 : client: [20] closed
+Sep 15 13:05 : client: [21] opened from 127.0.0.1:60024
+Sep 15 13:05 : client: [21] closed
+Sep 15 13:05 : client: [22] opened from 127.0.0.1:60030
+Sep 15 13:05 : client: [22] closed
+Sep 15 13:15 : client: [23] opened from 127.0.0.1:60358
+Sep 15 13:15 : client: [23] closed
+Sep 15 13:22 : client: [24] opened from 127.0.0.1:60814
+Sep 15 13:22 : client: [24] closed
+Sep 15 13:31 : client: [25] opened from 127.0.0.1:33092
+Sep 15 13:31 : client: [25] closed
+Sep 15 13:32 : client: [26] opened from 127.0.0.1:33100
+Sep 15 13:32 : client: [26] closed
+Sep 15 13:34 : client: [27] opened from 127.0.0.1:33110
+Sep 15 13:34 : client: [27] closed
+Sep 15 13:39 : client: [28] opened from 127.0.0.1:33424
+Sep 15 13:39 : client: [28] closed
+Sep 15 14:03 : client: [29] opened from 127.0.0.1:33590
+Sep 15 14:03 : client: [29] closed
+Sep 15 14:04 : player: played "Podcasts/The Mental Game Podcast/jaredtendler-20160819151713-2494.mp3"
+Sep 15 14:08 : client: [30] opened from 127.0.0.1:33958
+Sep 15 14:08 : client: [30] closed
+Sep 15 14:09 : client: [31] opened from 127.0.0.1:33988
+Sep 15 14:09 : client: [31] closed
+Sep 15 14:10 : client: [32] opened from 127.0.0.1:34112
+Sep 15 14:10 : client: [32] closed
+Sep 15 14:10 : client: [33] opened from 127.0.0.1:34116
+Sep 15 14:10 : client: [33] closed
+Sep 15 14:11 : client: [34] opened from 127.0.0.1:34122
+Sep 15 14:11 : client: [34] closed
+Sep 15 14:20 : client: [35] opened from 127.0.0.1:34562
+Sep 15 14:20 : client: [35] closed
+Sep 15 14:20 : client: [36] opened from 127.0.0.1:34570
+Sep 15 14:20 : client: [36] closed
+Sep 15 14:20 : client: [37] opened from 127.0.0.1:34574
+Sep 15 14:20 : client: [37] closed
+Sep 15 14:27 : client: [38] opened from 127.0.0.1:35442
+Sep 15 14:27 : client: [38] closed
+Sep 15 14:29 : client: [39] opened from 127.0.0.1:35482
+Sep 15 14:29 : client: [39] closed
+Sep 15 15:14 : client: [40] opened from 127.0.0.1:35712
+Sep 15 15:14 : client: [40] closed
+Sep 15 15:24 : client: [41] opened from 127.0.0.1:35992
+Sep 15 15:24 : client: [41] closed
+Sep 15 15:24 : client: [42] opened from 127.0.0.1:35996
+Sep 15 15:24 : client: [42] closed
+Sep 15 15:42 : client: [43] opened from 127.0.0.1:36594
+Sep 15 15:42 : client: [43] closed
+Sep 15 15:56 : client: [44] opened from 127.0.0.1:36960
+Sep 15 15:56 : client: [44] closed
+Sep 15 15:57 : client: [45] opened from 127.0.0.1:36994
+Sep 15 15:57 : client: [45] closed
+Sep 15 16:04 : client: [46] opened from 127.0.0.1:37394
+Sep 15 16:04 : client: [46] closed
+Sep 15 16:06 : client: [47] opened from 127.0.0.1:37400
+Sep 15 16:06 : client: [47] closed
+Sep 16 12:26 : client: [48] opened from 127.0.0.1:43668
+Sep 16 12:26 : client: [48] closed
+Sep 16 12:31 : client: [49] opened from 127.0.0.1:43806
+Sep 16 12:31 : client: [49] closed
+Sep 16 12:34 : client: [50] opened from 127.0.0.1:43818
+Sep 16 12:34 : client: [50] closed
+Sep 16 12:40 : client: [51] opened from 127.0.0.1:43830
+Sep 16 12:40 : client: [51] closed
+Sep 16 12:43 : client: [52] opened from 127.0.0.1:43838
+Sep 16 12:43 : client: [52] closed
+Sep 16 12:49 : client: [53] opened from 127.0.0.1:43880
+Sep 16 12:49 : client: [53] closed
+Sep 16 12:51 : client: [54] opened from 127.0.0.1:43894
+Sep 16 12:51 : client: [54] closed
+Sep 16 12:53 : client: [55] opened from 127.0.0.1:43900
+Sep 16 12:53 : client: [55] closed
+Sep 19 16:57 : client: [56] opened from 127.0.0.1:60602
+Sep 19 16:57 : client: [56] closed
+Sep 19 16:57 : client: [57] opened from 127.0.0.1:60606
+Sep 19 16:57 : client: [57] closed
+Sep 22 09:47 : client: [58] opened from 127.0.0.1:35520
+Sep 22 09:47 : client: [58] closed
+Sep 22 09:47 : client: [59] opened from 127.0.0.1:35524
+Sep 22 09:47 : client: [59] closed
+Sep 23 14:40 : client: [60] opened from 127.0.0.1:50244
+Sep 23 14:40 : player: played "Podcasts/The Tournament Poker Edge Podcast/328310-november-25th-2015-wsop-main-event-and-wcoop-super-progressive-ko-mtt-strategy-with-dannyn13.mp3"
+Sep 23 14:41 : client: [60] closed
+Sep 23 14:41 : client: [61] opened from 127.0.0.1:50250
+Sep 23 14:41 : client: [61] closed
+Sep 23 14:41 : update: removing Podcasts/The Mental Game Podcast/jaredtendler-20160819151713-2494.mp3
+Sep 23 14:41 : update: added Podcasts/Weekly Poker Hand with Jonathan Little/wph113audio.mp3
+Sep 23 14:41 : update: added Podcasts/Weekly Poker Hand with Jonathan Little/wph112audio.mp3
+Sep 23 14:41 : update: removing Podcasts/Thinking Poker » Thinking Poker Podcast Feed/Ep184.mp3
+Sep 23 14:41 : update: removing Podcasts/The Tournament Poker Edge Podcast/328310-november-25th-2015-wsop-main-event-and-wcoop-super-progressive-ko-mtt-strategy-with-dannyn13.mp3
+Sep 23 14:41 : update: added Podcasts/Full Contact Poker Podcast/284056536-user-603347096-fcp-podcast-episode-3-featuring-william-kassouf.mp3
+Sep 23 14:41 : client: [62] opened from 127.0.0.1:50254
+Sep 23 14:41 : player: played "Podcasts/Weekly Poker Hand with Jonathan Little/wph113audio.mp3"
+Sep 23 14:41 : client: [62] closed
+Sep 23 14:41 : client: [63] opened from 127.0.0.1:50258
+Sep 23 14:41 : client: [64] opened from 127.0.0.1:50262
+Sep 23 14:41 : client: [64] closed
+Sep 23 14:42 : player: played "Podcasts/Weekly Poker Hand with Jonathan Little/wph112audio.mp3"
+Sep 23 14:42 : player: played "Podcasts/Weekly Poker Hand with Jonathan Little/wph112audio.mp3"
+Sep 23 14:42 : player: played "Podcasts/Weekly Poker Hand with Jonathan Little/wph113audio.mp3"
+Sep 23 14:42 : client: [65] opened from 127.0.0.1:50268
+Sep 23 14:42 : client: [65] closed
+Sep 23 14:42 : client: [66] opened from 127.0.0.1:50274
+Sep 23 14:42 : client: [66] closed
+Sep 23 14:42 : client: [63] closed
+Sep 23 14:42 : client: [67] opened from 127.0.0.1:50278
+Sep 23 14:42 : client: [67] closed
+Sep 23 14:42 : client: [68] opened from 127.0.0.1:50282
+Sep 23 14:42 : client: [68] closed
+Sep 23 14:43 : client: [69] opened from 127.0.0.1:50286
+Sep 23 14:43 : client: [69] closed
+Sep 23 14:44 : client: [70] opened from 127.0.0.1:50292
+Sep 23 14:44 : client: [70] closed
+Sep 23 14:46 : client: [71] opened from 127.0.0.1:50302
+Sep 23 14:46 : client: [71] closed
+Sep 23 14:46 : client: [72] opened from 127.0.0.1:50306
+Sep 23 14:46 : client: [73] opened from 127.0.0.1:50310
+Sep 23 14:46 : client: [73] closed
+Sep 23 14:46 : client: [74] opened from 127.0.0.1:50314
+Sep 23 14:46 : client: [74] closed
+Sep 23 14:46 : player: played "Podcasts/Weekly Poker Hand with Jonathan Little/wph112audio.mp3"
+Sep 23 14:46 : player: played "Podcasts/Weekly Poker Hand with Jonathan Little/wph113audio.mp3"
+Sep 23 14:47 : client: [72] closed
+Sep 23 14:47 : client: [75] opened from 127.0.0.1:50318
+Sep 23 14:47 : client: [75] closed
+Sep 23 14:50 : client: [76] opened from 127.0.0.1:50328
+Sep 23 14:50 : client: [76] closed
+Sep 23 14:52 : client: [77] opened from 127.0.0.1:50348
+Sep 23 14:52 : client: [77] closed
+Sep 23 14:55 : player: played "Podcasts/Weekly Poker Hand with Jonathan Little/wph112audio.mp3"
+Sep 23 14:57 : client: [78] opened from 127.0.0.1:50608
+Sep 23 14:57 : client: [78] closed
+Sep 23 14:58 : client: [79] opened from 127.0.0.1:50624
+Sep 23 14:58 : client: [79] closed
+Sep 23 14:58 : client: [80] opened from 127.0.0.1:50628
+Sep 23 14:58 : client: [80] closed
+Sep 23 14:58 : client: [81] opened from 127.0.0.1:50632
+Sep 23 14:58 : client: [81] closed
+Sep 23 14:58 : client: [82] opened from 127.0.0.1:50638
+Sep 23 14:58 : client: [82] closed
+Sep 23 14:59 : client: [83] opened from 127.0.0.1:50644
+Sep 23 14:59 : client: [83] closed
+Sep 23 14:59 : client: [84] opened from 127.0.0.1:50648
+Sep 23 14:59 : client: [84] closed
+Sep 23 15:02 : player: played "Podcasts/Weekly Poker Hand with Jonathan Little/wph113audio.mp3"
+Sep 23 15:02 : client: [85] opened from 127.0.0.1:50710
+Sep 23 15:02 : client: [85] closed
+Sep 23 15:09 : client: [86] opened from 127.0.0.1:51092
+Sep 23 15:09 : client: [86] closed
+Sep 23 15:10 : client: [87] opened from 127.0.0.1:51118
+Sep 23 15:10 : client: [87] closed
+Sep 23 15:10 : client: [88] opened from 127.0.0.1:51122
+Sep 23 15:10 : client: [88] closed
+Sep 23 15:11 : client: [89] opened from 127.0.0.1:51128
+Sep 23 15:11 : client: [89] closed
+Sep 23 15:12 : client: [90] opened from 127.0.0.1:51136
+Sep 23 15:12 : client: [90] closed
+Sep 23 15:29 : client: [91] opened from 127.0.0.1:51228
+Sep 23 15:29 : client: [91] closed
+Sep 23 15:32 : client: [92] opened from 127.0.0.1:51522
+Sep 23 15:32 : client: [92] closed
+Sep 23 15:36 : client: [93] opened from 127.0.0.1:51546
+Sep 23 15:36 : client: [93] closed
+Sep 23 15:37 : client: [94] opened from 127.0.0.1:51564
+Sep 23 15:37 : client: [94] closed
+Sep 23 16:45 : client: [95] opened from 127.0.0.1:51854
+Sep 23 16:45 : client: [95] closed
+Sep 23 16:45 : client: [96] opened from 127.0.0.1:51920
+Sep 23 16:45 : client: [96] closed
+Sep 23 16:46 : client: [97] opened from 127.0.0.1:51930
+Sep 23 16:46 : client: [97] closed
+Sep 23 16:46 : client: [98] opened from 127.0.0.1:52268
+Sep 23 16:46 : client: [98] closed
+Sep 23 17:11 : client: [99] opened from 127.0.0.1:53244
+Sep 23 17:11 : client: [99] closed
+Sep 23 17:11 : client: [100] opened from 127.0.0.1:53248
+Sep 23 17:11 : client: [100] closed
+Sep 23 17:34 : client: [101] opened from 127.0.0.1:53976
+Sep 23 17:34 : client: [101] closed
+Sep 23 17:34 : client: [102] opened from 127.0.0.1:53980
+Sep 23 17:34 : client: [102] closed
+Sep 23 17:34 : client: [103] opened from 127.0.0.1:53984
+Sep 23 17:34 : client: [103] closed
+Sep 23 17:34 : client: [104] opened from 127.0.0.1:53988
+Sep 23 17:34 : client: [104] closed
+Sep 23 17:34 : client: [105] opened from 127.0.0.1:53992
+Sep 23 17:34 : client: [105] closed
+Sep 23 17:34 : client: [106] opened from 127.0.0.1:53996
+Sep 23 17:34 : client: [106] closed
+Sep 23 17:34 : client: [107] opened from 127.0.0.1:54000
+Sep 23 17:34 : client: [107] closed
+Sep 23 17:34 : client: [108] opened from 127.0.0.1:54004
+Sep 23 17:34 : client: [108] closed
+Sep 23 17:34 : client: [109] opened from 127.0.0.1:54008
+Sep 23 17:34 : client: [109] closed
+Sep 23 17:34 : client: [110] opened from 127.0.0.1:54012
+Sep 23 17:34 : client: [110] closed
+Sep 23 17:34 : client: [111] opened from 127.0.0.1:54016
+Sep 23 17:34 : client: [111] closed
+Sep 23 17:45 : client: [112] opened from 127.0.0.1:54514
+Sep 23 17:45 : client: [112] closed
+Sep 27 13:16 : client: [113] opened from 127.0.0.1:48114
+Sep 27 13:16 : player: played "Podcasts/Full Contact Poker Podcast/284056536-user-603347096-fcp-podcast-episode-3-featuring-william-kassouf.mp3"
+Sep 27 13:18 : client: [114] opened from 127.0.0.1:48124
+Sep 27 13:18 : update: added Podcasts/The Mental Game Podcast/hipcast-11231-u-392276-s-1.audio.mp3
+Sep 27 13:18 : client: [114] closed
+Sep 27 13:19 : client: [115] opened from 127.0.0.1:48212
+Sep 27 13:19 : update: updating Podcasts/The Mental Game Podcast/hipcast-11231-u-392276-s-1.audio.mp3
+Sep 27 13:19 : client: [115] closed
+Sep 27 13:19 : client: [113] closed
+Sep 27 13:21 : client: [116] opened from 127.0.0.1:48232
+Sep 27 13:21 : client: [116] closed
+Sep 27 13:22 : client: [117] opened from 127.0.0.1:48238
+Sep 27 13:22 : client: [117] closed
+Sep 27 13:25 : client: [118] opened from 127.0.0.1:48250
+Sep 27 13:25 : client: [118] closed
+Sep 27 13:25 : update: added Podcasts/The Mental Game Podcast/hipcast-11231-u-393441-s-1.audio.mp3
+Sep 27 13:25 : client: [119] opened from 127.0.0.1:48254
+Sep 27 13:25 : client: [119] closed
+Sep 27 13:41 : client: [120] opened from 127.0.0.1:48466
+Sep 27 13:41 : client: [120] closed
+Sep 27 13:53 : client: [121] opened from 127.0.0.1:48746
+Sep 27 13:53 : client: [121] closed
+Sep 27 14:00 : client: [122] opened from 127.0.0.1:49450
+Sep 27 14:00 : client: [122] closed
+Sep 27 14:05 : client: [123] opened from 127.0.0.1:49500
+Sep 27 14:05 : client: [123] closed
+Sep 27 14:08 : client: [124] opened from 127.0.0.1:49776
+Sep 27 14:08 : client: [124] closed
+Sep 30 12:42 : player: played "Podcasts/The Mental Game Podcast/hipcast-11231-u-392276-s-1.audio.mp3"

@@ -1,0 +1,5 @@
+download-path "~/Music/Podcasts/%n"
+player $PLAYER
+
+bind-key k up
+bind-key j down
